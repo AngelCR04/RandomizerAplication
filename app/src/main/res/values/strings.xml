@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomizerAplication</string>
+    <string name="dice_image_description">dice image</string>
+    <string name="coin_image_description">coin image</string>
+    <string name="flip_coin">Flip Coin</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="welcome">WELCOME TO MY RANDOMIZER APP</string>
+    <string name="option">Select the action you wish to perform</string>
+</resources>
